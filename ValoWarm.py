@@ -1,9 +1,6 @@
 import pyautogui
 import time
 
-import pyautogui
-import time
-
 # Function to perform a series of clicks and typing operations
 def perform_operations():
     
